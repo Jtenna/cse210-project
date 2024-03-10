@@ -7,3 +7,5 @@ class Program
         Console.WriteLine("Hello Develop02 World!");
     }
 }
+
+// Create the Journal class.  
